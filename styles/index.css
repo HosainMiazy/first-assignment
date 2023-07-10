@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.first-heading {
+    color: #272727;
+    font-size: 80px;
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 70%;
+    margin-top: 20px;
+}
+
+.section-one {
+    padding: 150px 60px;
+    /* text-align: center;
+    align-items: center; */
+}
+
+.button {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    color: #FFF;
+    border-radius: 10px;
+    background: #E55473;
+    margin-top: 20px;
+}
+
+.picture {
+    padding-right: 100px ;
+    
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    height: 100vh;
+    padding: 40px 70px 0px 0px;
+    display: flex;
+}
+/* section 2 er sobkisu */
